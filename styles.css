@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+.main{
+	background-color: #f5f5f5;
+	padding:20px;
+}
+p{
+	height:50px;
+	background-color:white;
+}
+cite{
+	position:relative;
+	text-align:right;
+	top:20px;
+}
+.cite1{
+	position:relative;
+	top:20px;
+	left:30px;
+	text-align:right;
+}
