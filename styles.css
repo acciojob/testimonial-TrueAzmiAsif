@@ -10,15 +10,18 @@ cite{
 	top:40px;
 	right:30px;
 }
-p{
-	position:absolute;
-	top:10px;
-	left:20px;
+.rig{
+	text-align:right;
 }
 .wblock{
 	width:100%;
 	background-color:white;
 	height:30%;
 	position:relative;
-	margin-bottom:20px;
+	padding-top:2px;
+	padding-bottom:2px;
+	box-sizing:border-box;
+	padding-left:20px;
+	padding-right:10px;
+	margin-bottom:15px;
 }
